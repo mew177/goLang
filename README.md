@@ -1,0 +1,2 @@
+# goLang
+ practice of goLang
